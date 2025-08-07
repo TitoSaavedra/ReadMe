@@ -1,12 +1,15 @@
 ## Introducción
 
-Esta propuesta corresponde a una **maqueta funcional y navegable** de la plataforma de tokenización. El objetivo de este entregable es **representar visualmente y técnicamente cada módulo** principal del sistema, incluyendo **transacciónes en la testnet de Ethereum**.
+Este documento describe el alcance y características técnicas de una **maqueta funcional y navegable** correspondiente a una plataforma de tokenización de activos. Su propósito es representar de manera estructurada y visual los módulos fundamentales del sistema, incluyendo la simulación de transacciones en una red de pruebas basada en tecnología blockchain.
 
-La maqueta está diseñada con componentes visuales modernos (Tailwind, React, etc.) e integra la biblioteca **ethers.js** para la interacción con wallets y contratos inteligentes en una red de pruebas. La finalidad es validar la lógica completa de una operación comercial: desde la firma de un contrato hasta la liberación de pagos, reflejada en la blockchain de prueba.
+La maqueta será desarrollada utilizando **React** y **ethers.js**, lo que permite la interacción con wallets Web3 y la firma de operaciones clave. Esta implementación permite validar los flujos principales de una operación comercial digital: desde la firma de contratos hasta la liberación progresiva de pagos, con trazabilidad simulada a través de testnet.
 
-No se contempla la integración con una red blockchain real, la gestión de fondos en vivo, la creación de contratos inteligentes reales ni la implementación de un sistema productivo, Ademas está diseñada para usarse en un backend no productivo, por lo que no se contempla la integración de funciones en AWS, documentación de APIs, ni pruebas unitarias o de integración.
+> ⚠️ **Alcance del entregable:**  
+> Este desarrollo corresponde exclusivamente a una maqueta funcional y no representa un sistema productivo.  
+> Las funcionalidades están limitadas al entorno de prueba, sin gestión de fondos reales ni despliegue en redes blockchain públicas.  
+> No se contempla la integración con servicios de infraestructura, ni el desarrollo de pruebas automatizadas o documentación técnica exhaustiva.
 
-> ⚠️ **Este entregable no es un sistema productivo**. Las operaciones se limitan al entorno de testnet, sin gestión de fondos reales, pero con lógica funcional y trazabilidad verificable en blockchain.
+Esta maqueta está orientada a validar la lógica de interacción entre módulos clave de la plataforma, sirviendo como referencia visual y técnica para futuras fases de desarrollo.
 
 ---
 
