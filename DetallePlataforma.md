@@ -4,7 +4,7 @@ Este documento describe el alcance y características técnicas de una **maqueta
 
 La maqueta será desarrollada utilizando **React** y **ethers.js**, lo que permite la interacción con wallets Web3 y la firma de operaciones clave. Esta implementación permite validar los flujos principales de una operación comercial digital: desde la firma de contratos hasta la liberación progresiva de pagos, con trazabilidad simulada a través de testnet.
 
-> ⚠️ **Alcance del entregable:**  
+> **Alcance del entregable:**  
 > Este desarrollo corresponde exclusivamente a una maqueta funcional y no representa un sistema productivo.  
 > Las funcionalidades están limitadas al entorno de prueba, sin gestión de fondos reales ni despliegue en redes blockchain públicas.  
 > No se contempla la integración con servicios de infraestructura, ni el desarrollo de pruebas automatizadas o documentación técnica exhaustiva.
