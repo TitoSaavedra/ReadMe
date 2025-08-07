@@ -1,4 +1,4 @@
-## 🎨 Introducción
+## Introducción
 
 Esta propuesta corresponde a una **maqueta funcional y navegable** de la plataforma de tokenización. El objetivo de este entregable es **representar visualmente y técnicamente cada módulo** principal del sistema, incluyendo **transacciónes en la testnet de Ethereum**.
 
