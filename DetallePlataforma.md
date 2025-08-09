@@ -75,7 +75,7 @@ Este módulo define la estructura base de la plataforma, incluyendo el sidebar d
 |              | Redirección por rol                        | Controlador para enviar al usuario a su dashboard correspondiente                | 2 h             | Según claims del JWT           | Sí                 |
 |              | DB: sesiones activas (opcional)            | Modelo para guardar sesiones activas con tokens y expiración                     | 4 h             | Permite invalidar sesiones     | Sí                 |
 | **Horas**    |                                            |                                                                                  | **Totales**     |                                | **Sin Opcionales** |
-|              |                                            |                                                                                  | **25 h**        |                                | **11 h**           |
+|              |                                            |                                                                                  | **25 h**        |                                | **8 h**            |
 
 ---
 
@@ -178,7 +178,7 @@ La logica de la liberación de pagos contra entrega es Opcional, debido a que la
 |              | Simulación de lógica blockchain              | Generar y asociar hash simulado para representar transacción en testnet o de forma local.           | 1.5 h           | No depende de red real          | Sí                 |
 |              | DB: modelo de pagos                          | Esquema para almacenar historial de pagos: contrato, monto, porcentaje, estado, fecha, hash.        | 2.0 h           | Modelo relacional con contratos | No                 |
 | **Horas**    |                                              |                                                                                                     | **Totales**     |                                 | **Sin Opcionales** |
-|              |                                              |                                                                                                     | **15.5 h**      |                                 | **9.0 h**          |
+|              |                                              |                                                                                                     | **15.5 h**      |                                 | **8.5 h**          |
 
 ---
 
