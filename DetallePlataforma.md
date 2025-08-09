@@ -216,7 +216,7 @@ Este módulo es esencial para la supervisión y validación global del sistema.
 |              | Configuración global del sistema                 | Permitir modificar parámetros como tokens, porcentajes, límites desde el panel admin. | 2.0 h           | Ajustes del sistema desde la interfaz   | Sí                 |
 |              | DB: modelos de configuración y auditoría admin   | Modelos para almacenar parámetros, cambios de configuración y logs administrativos.   | 2.0 h           | Control de trazabilidad y cambios       | Sí                 |
 | **Horas**    |                                                  |                                                                                       | **Totales**     |                                         | **Sin Opcionales** |
-|              |                                                  |                                                                                       | **19.5 h**      |                                         | **15.5 h**         |
+|              |                                                  |                                                                                       | **19.5 h**      |                                         | **10.5 h**         |
 
 ---
 
@@ -226,14 +226,14 @@ Este módulo es esencial para la supervisión y validación global del sistema.
 | -------------------------------- | ----------- | ---------------------------- |
 | Gestión de Usuarios y Login      | 21.8 h      | 13.3 h                       |
 | Vinculación y Firma con MetaMask | 19 h        | 19 h                         |
-| Layout General                   | 25 h        | 11 h                         |
+| Layout General                   | 25 h        | 8 h                          |
 | Panel del Cliente                | 24.5 h      | 17.5 h                       |
 | Panel de Administración          | 18 h        | 8.5 h                        |
 | Gestión de Contratos             | 17.5 h      | 10 h                         |
 | Inventario                       | 17.5 h      | 10.5 h                       |
-| Flujo Financiero                 | 15.5 h      | 9 h                          |
+| Flujo Financiero                 | 15.5 h      | 8,5 h                        |
 | Indicadores Comerciales          | 7 h         | 0 h                          |
-| Panel Administrador              | 19.5 h      | 15.5 h                       |
-| **Total General**                | **185.3 h** | **92.5 h**                   |
+| Panel Administrador              | 19.5 h      | 10.5 h                       |
+| **Total General**                | **185.3 h** | **105.8 h**                  |
 
-Si solamente se hace lo necesario para una maqueta funcional y navegable, el total de horas conciderando solo los módulos clave y sin los opcionales es de **92,5 horas**.
+Si solamente se hace lo necesario para una maqueta funcional y navegable, el total de horas conciderando solo los módulos clave y sin los opcionales es de **105.8 horas**.
